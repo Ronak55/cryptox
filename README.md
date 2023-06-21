@@ -1,5 +1,5 @@
 
+# You can access the project here :
 
-
-[Visit my website Cryptox](https://cryptox-five.vercel.app/)
+[Cryptox](https://cryptox-five.vercel.app/)
 
