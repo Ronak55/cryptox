@@ -1,5 +1,4 @@
-
-# You can access the project here :
+ Access this project here :
 
 [Cryptox](https://cryptox-five.vercel.app/)
 
